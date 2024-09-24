@@ -1,0 +1,46 @@
+.homepage {
+    text-align: center;
+    padding: 10px;
+    border: solid 10px black;
+    font-size: 60px;
+    font-style: italic;
+    font-weight: lighter;
+}
+
+.homepage-list {
+    list-style-type:none;
+    padding-left: 0;
+}
+
+.list-main {
+    text-align: center;
+    margin: 10px;
+}
+
+h2, a {
+    text-align:left;
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+    font-weight: bolder;
+    font-size: xx-large;
+}
+h2 {
+    padding-left: 10px;
+}
+
+.recipe-header, .recipe-desc {
+    font-style: italic;
+    text-align: left;
+}
+
+.recipe-desc {
+    color: grey;
+    font-size: 22px;;
+}
+.recipe-header {
+    font-size: 80px;
+}
